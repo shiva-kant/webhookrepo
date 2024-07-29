@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "Hello bWORLD JENKINS"
+                echo "Hello WORLD Web hook JENKINS"
             }
         }
     }
